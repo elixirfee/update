@@ -1,1 +1,3 @@
-this is a test string!
+{
+"md5sum":"b9f0b6f2387de624e6b1b1aaba85e648"
+}
